@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sizamna": {
+      "hosting": {
+        "angular-firebase-dashbord": [
+          "sizamna"
+        ]
+      }
+    }
+  }
+}
